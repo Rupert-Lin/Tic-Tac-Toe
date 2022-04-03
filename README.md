@@ -6,36 +6,36 @@
 
  1. The program runs from the menu.py file. Enter **python menu.py** to run the function. 
  2. A pygame window will open with the game menu. Here you can choose to play Single Player, Multi Player or to quit.
- ![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT1.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT1.PNG?raw=true
 
  3. Click on **Single** to play against the AI. A window will open with 9 boxes, click on one of the boxes to make your move. Since you are playing against the AI, the computer's move will show up automatically. 
  
-![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT2.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT2.PNG?raw=true
  
 
 
  4. The player will be '**O**' and the computer will play as '**X'**. 
  
  You can either win, lose or tie the game. A line will appear showing the winning moves and a message will appear: 
-![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT3.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT3.PNG?raw=true
  5. After the game a menu will appear on the screen, you can choose to retry or go back to the main menu
- ![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT4.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT4.PNG?raw=true
  
- 6. If a player wants to play again, they can click retry and it will take the user to a new board:  ![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT11.PNG?raw=true)
+ 6. If a player wants to play again, they can click retry and it will take the user to a new board:  
+ 7. https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT11.PNG?raw=true
  
  7. If they click on menu, they will be taken back to the main menu. To play with someone else, click on **Multi** to play a 2 player game, the board will look similar. 
-![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT9.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT9.PNG?raw=true
 
  8. Similar to single player, click on the screen to make your move. Player 1 will play as '**O**' and Player 2 will play as '**X**'. Once no more moves need to be made, the game will annouce the winner or a tie. Multi player has a score board which keeps track of the scores. 
-
- ![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT5.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT5.PNG?raw=true
  
 
  9. The score board is updated after every game, but the score will be lost once the players exit the program. Previously Player 1 won, so they had one point. Here player 2 won, and will be given one point. But if the game is a tie, neither player gets a point. 
- ![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT10.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT10.PNG?raw=true
 
  10. The players can either replay the game or go back to the main menu. Here if the "Quit" button is clicked, the program will end. 
-![alt text](https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT12.PNG?raw=true)
+https://github.com/nikhita25/Tic-Tac-Toe/blob/main/TTT12.PNG?raw=true
 
 ## The code
 There are comments on the code explaining what each function does. Here is a brief description of what each file contains:
